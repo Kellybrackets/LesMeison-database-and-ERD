@@ -1,6 +1,6 @@
 # ☕ Les Maisons Café Management System - University Case Study  
 
-![ERD Diagram](erd-diagram.png) *<!-- Replace with your actual ERD image -->*  
+![ERD Diagram](Picture1.jpg) *<!-- Replace with your actual ERD image -->*  
 
 [![Database: SQL Server](https://img.shields.io/badge/Database-SQL%20Server-orange)](https://www.microsoft.com/en-us/sql-server)  
 [![Backend: Python](https://img.shields.io/badge/Backend-Python%203.10-blue)](https://www.python.org/)  
